@@ -1,0 +1,63 @@
+Content of version : unknown
+
+------------------------------------------------------------------------
+package name		md5 check sum						License
+------------------------------------------------------------------------
+bluez				61d305b334b06d3be8ed336887850b75	GPL_V2
+bridge-utils		4538349708c6cf83901f0f138230d661	GPL_V2
+busybox-1.1.2		07cdc5a735b0267e25fb1c84910abfe8	GPL_V2
+dhcpcd-1.3.22-pl4	a0ff626adfe6f21a27c8e1dd2603874c	GPL_V2
+dltftp				646544b2af8610863494453392c1e58b	BSD
+dnsmasq				b73db08d9a3e762883b9d7e9c5f62b86	GPL_V2
+e2fsprogs			9640e0e9f06cfe6784bb17f34e0a75c5	GPL_V2 BSD EXCEPT
+ebtables			31189d716dd7c5c3c7c8d4869694334a	GPL_V2
+ftp					74582f38b4ac02e38f238b0a69193008	BSD
+inetd-ping			a764969d204efacb0d513e872d8ece27	BSD
+iproute2			a7b1e026136875abe333b6e18ae872e7	GPL_V2
+iptables			d690a1a74c218312533eec20b56d6d86	GPL_V2
+l2tpd				5a51c358e34ec062a5d3131b2461cf0d	GPL_V2
+linux-2.6.12		a0e7e06a88bc43b13a38b81a01efb140	GPL_V2
+mtd					af2e71f937bd32acb661efe81ad73f09	GPL_V2
+ntpclient			a687d8091cc5ef58c2dd9cd1fb62d13a	GPL_V2
+pcmcia-cs			01500b9d32c1f4424a51398b5a7e92c7	GPL_V2 MPL_V1.1
+ppp					ee0aadfd4394a00e4c79a4e165b4328b	GPL_V2 SPECIFIC
+procps				7c457b6e514449486a915d8f361dc2a8	GPL_V2
+tsnmp				61e9c26f5d3ca689923e1c258ed28987	GPL_V2
+udhcp				a0f543183a6a215e38bd302338afddb3	GPL_V2
+updatedd-1.6		79b86ed3de2b8b69933281a50b0b5046	GPL_V2 LGPL_V2.1
+upnp-opensource		7187650334499995557647bc17978217	GPL_V2
+vlan				8d74577bcbbc2abdb68384ca3ac58b84	GPL_V2 LGPL_V2.1
+wget				137a2bc022ce427fc507a21694ba1145	GPL_V2
+wireless_tools		73b4b515a6e330d42e3cd846c0e4a785	GPL_V2
+------------------------------------------------------------------------
+These files published as they were made available by Thomson on their site.
+
+They were only slightly re-archived into proper tarballs.
+------------------------------------------------------------------------
+
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/bluez.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/bridge-utils.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/busybox-1.1.2.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/dhcpcd-1.3.22-pl4.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/dltftp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/dnsmasq.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/e2fsprogs.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/ebtables.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/ftp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/inetd-ping.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/iproute2.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/iptables.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/l2tpd.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/linux-2.6.12.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/mtd.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/ntpclient.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/pcmcia-cs.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/ppp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/procps.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/tsnmp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/udhcp.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/updatedd-1.6.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/upnp-opensource.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/vlan.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/wget.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/vunknown/wireless_tools.tar.bz2

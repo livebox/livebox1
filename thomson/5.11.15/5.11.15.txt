@@ -1,0 +1,25 @@
+Content of version : 5.11.15
+
+------------------------------------------------------------------------
+package name		md5 check sum						License
+------------------------------------------------------------------------
+dhcp_relay			1f8ad614d6666eccbd760e38a712e197	GPL_V2
+ebtables-2.0.8-rc3	1219d6a483f30297e3f9118f65f189fc	GPL_V2
+iproute2-2.6.12.6	1518745270bfbb7f6bf1250f1d2060c5	GPL_V2
+memul				2ab071ae324fedf58d4e2790368fa036	GPL_V2
+smtpclient-1.0.0	057fa1f143d4a228c33f401b5d066763	GPL_V2
+udns-0.0.9			a7fc3212e3dcf430c6e8ebd1cefa9472	GPL_V2
+usbmgr-0.4.8		b7c493f63af2445be81f0fb174a36730	GPL_V2
+wget-1.9.1			375825b4b279244ab49b596e5883741d	GPL_V2
+wireless_tools-27	b5cd318d80a6ad4d6d2c46fa1c350a44	GPL_V2
+------------------------------------------------------------------------
+
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/dhcp_relay.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/ebtables-2.0.8-rc3.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/iproute2-2.6.12.6.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/memul.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/smtpclient-1.0.0.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/udns-0.0.9.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/usbmgr-0.4.8.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/wget-1.9.1.tar.bz2
+http://www.livebox-opensource.com/Products/LiveBox/LiveBox1/Thomson/v5.11.15/wireless_tools-27.tar.bz2
